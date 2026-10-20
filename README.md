@@ -1,1 +1,0 @@
-# KRTE_wordlist
